@@ -1,7 +1,7 @@
 ---
 theme: seriph
 background: >-
-  https://github.com/user-attachments/assets/f973f1f4-e62b-4d15-91ee-6be97c858126
+  https://raw.githubusercontent.com/veverkap/copilot101-hubber/refs/heads/main/github_intro.png
 title: A Brief Introduction to GitHub Copilot
 favicon: ''
 font: Playfair Display
@@ -24,24 +24,22 @@ Hello good morning! Thank you all for being here with me today!I hope youve been
 
 ---
 layout: image-right
-image: https://github.com/LadyKerr/mealmetrics-copilot/assets/47188731/7d0e2430-c5c9-483a-b8eb-afcda71e80f8
+image: https://avatars.githubusercontent.com/u/22348
 transition: fade-out
 ---
 
-# Hi! I'm Kedasha!
+# Hi! I'm Patrick!
 
-- Jamaican gyal! 🇯🇲
-- Developer Advocate at GitHub
-- Software Engineer for ~5 years
-- Technical Content Creator ✨
-- Addicted to TikTok!😬
-- Committed to teaching and learning in public
+- Staff Software Engineer at GitHub
+- Software Engineer for ~25 years
+- Started working at GitHub in 2021
+- Previously worked on GitHub Codespaces
+- Working on Copilot for almost 3 years
+- Member of Copilot Metrics team
 
 <br>
 
-I love, love, love creating technical content on Instagram, Tiktok and sometimes Twitter. 
-
-**Find me online @itsthatladydev**
+**Find me in the #copilot channel on Slack!**
 
 <style>
 h1 {
@@ -54,12 +52,6 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 </style>
-
-<!--
-Hello! I'm Kedasha Kerr and Im a Developer Advocate here at GitHub. 
-
-Im super excited to talk to you about GitHub Copilot and how to get the most out of this tool.
--->
 
 ---
 layout: intro
@@ -152,7 +144,7 @@ h1 {
 </style>
 
 <!--
-To install it you'll go to your respective marketplaces for your IDE and install the extension. Once ut's installed you'll need to authenticate with your GitHub account. and if you have accesss, you'll be able to use GitHub Copilot in your IDE.
+To install it you'll go to your respective marketplaces for your IDE and install the extension. Once it's installed you'll need to authenticate with your GitHub account. and if you have accesss, you'll be able to use GitHub Copilot in your IDE.
 
 And it works with many languages - especially open source languages like javascript, typescript, python, java, python, go, ruby, and more.
 -->
@@ -197,12 +189,12 @@ transition: fade-out
 # Features of GitHub Copilot
 
 - Code Complete (inline suggestions)
-- Copilot Chat (inline and chat box)
-- Copilot Chat on Mobile!
+- Copilot Chat (inline and chat box, mobile and on dotcom)
 - Copilot in the CLI
 - Copilot PR Summaries (ent)
 - Copilot Knowledge bases (ent)
 - Copilot Extensions (Public beta)
+- Copilot Workspace
 - Copilot Autofix for CodeQL
 
 ![copilot-chat-dotcom](https://github.com/user-attachments/assets/d8a59971-e365-435e-824d-bfbfe21afd9f)
@@ -236,14 +228,15 @@ transition: fade-out
 
 - 🛠️ Boilerplate code and frameworks
 - 🤷🏽‍♀️ Uncommon or confusing syntax
-- 🔗 Pattern matching
+- 🔗 Regular expression matching
+- 📃 Weekly Status
 - 👨🏽‍💻 Translate Code
 - ⛓️ Cron jobs and regex
 - 👀 Helping you remember things you forgot
 - 💻 Extending and refactoring existing code
 - 🔖 Explaining unfamiliar code
 - 📝 Documentation (which we all love to write!)
-- 🚨 Understandiing error messages (and fixing it!)
+- 🚨 Understanding error messages (and fixing them!)
 - 🧪 Writing unit tests
 
 . . . and much more! 🚀
@@ -272,7 +265,7 @@ transition: fade-out
 
 # Some Limitations of GitHub Copilot 
 
-- GitHub copilot != Compiler
+- GitHub Copilot != Compiler
 - The AI cannot read your mind 
 - The AI is not a replacement for good coding practices
 
